@@ -1,0 +1,12 @@
+While both the document and window object are fundddamental to web development thwyserve different purpose.
+
+SCOPE;
+     
+The windoe object is the globle object or java script in a browser environment,while the documents objects represents the HTML content loaded with in that window 
+
+FUNCTIONALITYL;
+
+The window object deals with browser-related functionalities like navigation and window management, whereas the document object focuses on manipulating the content of the HTML document.
+
+
+Understanding the distinction between these two objects is crucial for effective web development. While the window object provides access to browser-related functionalities, the document object enables developers to interact with and modify the content of the web page. By leveraging the capabilities of both objects, developers can create rich, interactive, and dynamic web experiences.
